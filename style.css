@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@300;400;500;600;700&display=swap');
+
+body {
+    background-color: #282c34;
+    
+    
+}
+
+#title {
+    font-size: 50px;
+}
+
+.text {
+    color: #abb2bf;
+    font-family: 'FiraCode', sans-serif;
+    text-align: center;
+}
+
+button {
+    background-color: #C678DD;
+    outline: solid;
+    outline-width: 2px;
+    border: none;
+    width: 50vw;
+    height: 50px;
+    color: #ffffff;
+    font-size: 40px;
+    margin: auto;
+    width: 50%;
+}
+
+button:hover {
+    background-color: #9259a3;
+    cursor: pointer;
+    color: #ffffff;
+}
